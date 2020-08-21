@@ -1,2 +1,1 @@
-diff between reset vs revert
-two
+line 1
