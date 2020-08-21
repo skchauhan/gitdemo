@@ -1,5 +1,1 @@
-eeeeeee
-DDDDD
-
-new line
-stash list
+diff between reset vs revert
